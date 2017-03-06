@@ -1,0 +1,35 @@
+header{
+	text-align: center;
+	align-content: center;
+}
+header img{
+	width: 10%;
+}
+nav{
+	background-color: #F44336;
+}
+nav a{
+	color: withe;
+}
+
+section{
+	margin-top: 5px;
+	border: 1px solid darkgrey;
+}
+article{
+	width: 49%;
+}
+article:nth-child(even){
+	border-right: 1px solid #F44336;
+}
+article:nth-child(odd){
+	float: right;
+}
+
+footer{
+	text-align: center;
+	margin-top: 15px;
+	border-top: 2px solid #F44336;
+	border-bottom: 2px solid #F44336;
+	background-color: grey;
+}

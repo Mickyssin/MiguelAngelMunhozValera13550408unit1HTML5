@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+}
+
+header img{
+	width: 60px;
+}
+#headertitle{
+	float: right;
+	padding-top: 10px; 	
+}
+nav{
+	border: 1px solid black;
+	text-align: center;
+	background-color: #EEEEEE; 
+	margin-left: 3px;
+}
+
+section{
+	display: inline-block;
+	padding-top: 10px;
+	width: 75%;
+}
+section h3{
+	color: #DD2C00;
+	font-style: oblique;
+	letter-spacing: 10px;
+}
+
+section article{
+	border: 1px solid black;
+	padding: 5px;
+	margin-bottom: 12px;
+	margin-top: 1px;
+	margin-left: 3px;
+	background-color: #1E88E5;	
+}
+section article img{
+	width: 15%;
+}
+section article h2{
+	float: right;
+	color: #FFF3E0;
+}
+
+aside{
+	border: 1px solid black;
+	float: right;
+	display: inline-block;
+	margin-top: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 22%;
+	background-color: #EEEEEE;
+}
+aside h4{
+	padding-bottom: 5px;
+}
