@@ -1,0 +1,29 @@
+body{
+	background-color: #e3f2fd;
+}
+
+header{
+	text-align: center;
+	background-color: #2196f3;
+}
+
+iframe{
+	width: 80%;
+	height: 300px;
+	border: 1px solid #01579b;
+	background-color: #bbdefb;
+}
+
+nav{
+	float: right;
+	width: 15%;
+}
+
+a{
+	text-decoration: none;
+}
+
+nav li{
+	list-style: none;
+	border: 1px solid #3f51b5;
+}

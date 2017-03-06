@@ -1,0 +1,17 @@
+section article{
+	font-family: verdana;
+}
+section article h2{
+	color: #03a9f4;
+	font-family: serif;
+}
+section article span{
+	margin-right: 15px;
+	font-weight: bold;
+	display: inline-block;
+	font-size: 20px;
+	width: 20%;
+}
+section article span+p{
+	display: inline-block;
+}
